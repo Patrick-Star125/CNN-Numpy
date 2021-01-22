@@ -17,7 +17,7 @@
 
 <center>
 
-<img src="fig/iteration.jpg" style="zoom:60%"/>
+<img src="fig/iteration.jpg" style="zoom:100%"/>
 
 | version      | validation_acc | train_acc | inferencetime(ms/pf) |
 | :----------- | :------------: | :-------: | :------------------: |
